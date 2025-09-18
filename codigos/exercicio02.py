@@ -37,5 +37,6 @@ while menor <= maior:
 tempo_fim = time.perf_counter()
 
 tempo_total = int(tempo_fim - inicio)
-
+ 
+ 
 print(f'Tempo de execução: {tempo_total}s')
