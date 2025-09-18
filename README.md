@@ -24,4 +24,7 @@ o número escolhido pelo usuário e apresentar o tempo de execução.
 
 ---
 
-Algoritmo 3:
+Algoritmo 3: Quick Sort de Lista aleatória.
+
+Algoritmo gera uma primeira lista aleatória com 10 elementos e após isso reorganiza a lista
+de forma recursiva.
