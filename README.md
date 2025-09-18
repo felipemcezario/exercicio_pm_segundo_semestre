@@ -8,4 +8,6 @@ Aluno: Felipe Munin Cezario.
 
 Curso: Análise e Desenvolvimento de Sistemas | Segundo Semestre.
 
+---
+
 Algoritmo 1: Busca em Largura.
