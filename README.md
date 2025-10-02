@@ -1,6 +1,6 @@
 # Exercícios PM | ADS - Segundo Semestre
 
-Implementação de três algoritmos propostos no livro "Entendendo Algoritmos" de Aditya Y. Bhargava.
+Implementação de três algoritmos propostos no livro "Entendendo Algoritmos".
 
 Exercício individual.
 
